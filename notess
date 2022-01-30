@@ -1,0 +1,13 @@
+typeof users=>admin,users(followers)
+users=>
+
+username,age,phone,email,password,usrtype[admin,followers],gender
+editprofile,changepassword
+users =>add,delete,show,single(by mongoose),router
+user=>log in ,token, logout,logout all
+authirzation,authirzationadmin
+editprofile
+changepassword
+------------------------------------------------------------------
+images=>relation,uploadwithstorage
+delete single,add,myimg(show),showall,edit,deleteall
